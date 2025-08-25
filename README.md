@@ -13,7 +13,7 @@
 <h1 align="center">👨‍💼 ♻️ Recycling Facility Directory Management System — Laravel MVC Web App  🧮🚀</h1>
 <p align="left"><i>This is a Laravel MVC-based web application designed to manage employee data efficiently. The application provides a full suite of CRUD operations (Create, Read, Update, Delete), allowing administrators to maintain employee records through a user-friendly web interface.</i></p>
 <br>
-Looking forward to working with you Yasham Software Services Private Limited! 👨🏽‍💻
+<p align="center"><i></i>Looking forward to working with you Yasham Software Services Private Limited! 👨🏽‍💻 </i></p>
 <p align="center"><i>CRUD Operations</i> 👨🏽‍💻 
   <br>
 
